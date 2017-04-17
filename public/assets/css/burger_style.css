@@ -1,0 +1,32 @@
+body {
+    background-image: url("/../assets/img/burgers.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img#eatdaburger{
+    position: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/*jumbotron*/
+
+div.jumbotron {
+    background-color: rgba(7, 1, 24, 0.7);
+    /*background-color: transparent;*/
+    /*opacity: 0.3;*/
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+}
+
+p {
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+}
